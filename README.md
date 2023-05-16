@@ -21,9 +21,9 @@ The translation data currently covers utterances of <2048 length, which are cons
 |Italian|Coming Soon|
 |Arabic|Coming Soon|
 
+## Citation
 As an open-source project, we are open to contributions. It is also a part of Phoenix and if this dataset has been helpful to you, please feel free to cite it using the following format.
 
-## Citation
 ```angular2
 @article{phoenix-2023,
   title={Phoenix: Democratizing ChatGPT across Languages},
