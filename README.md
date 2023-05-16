@@ -1,7 +1,11 @@
-# Multilingual ShareGPT
-Translated ShareGPT  using ChatGPT.
+# A Zoo for Chat Data for Training LLM
 
-## Introduction
+- Human-bot conversation: e.g. ShareGPT
+- Bot-bot conversation: e.g. UltraChat
+- human-human conversation: see everewhere
+
+## Multilingual ShareGPT
+###  Translated ShareGPT  using ChatGPT.
 
 ShareGPT is a collection of chat logs between real users and the AI model ChatGPT. What sets this dataset apart is the fact that these interactions have been selected by users themselves, which generally implies a higher level of quality and relevance. This corpus played a key role in the success of the well-known Vicuna model, as it allowed for the training of large-scale pre-trained language models capable of engaging in smooth multi-turn conversations.
 
@@ -9,7 +13,7 @@ Despite the global nature of the interactions within ShareGPT, it's important to
 
 The translation data currently covers utterances of <2048 length, which are constrained by the input length of ChatGPT-3.5. The translated corpus does not yet include data from the ShareGPT corpus that's already in the target language. Moreover, manual verification of the translations has not been carried out to ensure higher quality, and this is one thing we want to do in the future.
 
-## Dataset link
+### Dataset link
 
 |Target Language|Link|
 | ------ | ------ |
@@ -22,6 +26,12 @@ The translation data currently covers utterances of <2048 length, which are cons
 |Arabic|Coming Soon|
 
 As an open-source project, we are open to contributions.
+
+## Bot-bot Conversation
+https://github.com/thunlp/UltraChat
+
+https://github.com/radi-cho/botbots
+
 
 ## Citation
 This project is also a part of [LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) and if this dataset has been helpful to you, please feel free to cite it using the following format:
