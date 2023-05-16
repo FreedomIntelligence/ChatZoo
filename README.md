@@ -21,8 +21,10 @@ The translation data currently covers utterances of <2048 length, which are cons
 |Italian|Coming Soon|
 |Arabic|Coming Soon|
 
+As an open-source project, we are open to contributions.
+
 ## Citation
-As an open-source project, we are open to contributions. It is also a part of Phoenix and if this dataset has been helpful to you, please feel free to cite it using the following format.
+This project is also a part of [LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) and if this dataset has been helpful to you, please feel free to cite it using the following format:
 
 ```angular2
 @article{phoenix-2023,
