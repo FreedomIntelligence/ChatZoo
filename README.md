@@ -1,5 +1,5 @@
-# ShareGPT-CN
-Translated ShareGPT in Chinese using ChatGPT.
+# Multilingual ShareGPT
+Translated ShareGPT  using ChatGPT.
 
 ## Introduction
 
