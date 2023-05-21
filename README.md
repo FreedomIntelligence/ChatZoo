@@ -17,7 +17,7 @@ The translation data currently covers utterances of <2048 length, which are cons
 
 |Target Language|Link|
 | ------ | ------ |
-| Chinese | [Huggingface](https://huggingface.co/datasets/FreedomIntelligence/ShareGPT-CN) | 
+| Chinese | [Huggingface](https://huggingface.co/datasets/FreedomIntelligence/ShareGPT-CN) or see [here](https://paratranz.cn/projects/6725/artifact) | 
 | Japanese | Coming Soon |
 |Korean|Coming Soon|
 |German|Coming Soon|
