@@ -14,16 +14,19 @@ Despite the global nature of the interactions within ShareGPT, it's important to
 The translation data currently covers utterances of <2048 length, which are constrained by the input length of ChatGPT-3.5. The translated corpus does not yet include data from the ShareGPT corpus that's already in the target language. Moreover, manual verification of the translations has not been carried out to ensure higher quality, and this is one thing we want to do in the future.
 
 ### Dataset link
-
-|Target Language|Link|
-| ------ | ------ |
-| Chinese | [Huggingface](https://huggingface.co/datasets/FreedomIntelligence/ShareGPT-CN) or see [here](https://paratranz.cn/projects/6725/artifact) | 
-| Japanese | Coming Soon |
-|Korean|Coming Soon|
-|German|Coming Soon|
-|French|Coming Soon|
-|Italian|Coming Soon|
-|Arabic|Coming Soon|
+|Target Language|Link for Alpac-gpt4|Link for Evol-instruct|
+| ------ | ------ | ------ |
+| Chinese |[Alpaca-gpt4](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-chinese)|[Evol-instruct](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-chinese)
+| Japanese |[Alpaca-gpt4](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-japanese)|[Evol-instruct](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-japanese)|
+| Korean |[Alpaca-gpt4](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-korean)|[Evol-instruct](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-korean)|
+| German |[Alpaca-gpt4](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-deutsch)|[Evol-instruct](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-deutsch)|
+| French |[Alpaca-gpt4](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-french)|[Evol-instruct](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-french)|
+| Italian |[Alpaca-gpt4](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-italian)|[Evol-instruct](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-italian)|
+| Arabic |[Alpaca-gpt4](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-arabic)|[Evol-instruct](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-arabic)|
+| Portuguese |[Alpaca-gpt4](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-portuguese)|[Evol-instruct](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-portuguese)|
+| Spanish |[Alpaca-gpt4](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-spanish)|[Evol-instruct](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-spanish)|
+| Hindi |[Alpaca-gpt4](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-hindi)|[Evol-instruct](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-hindi)|
+| Indonesian |[Alpaca-gpt4](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-indonesian)|[Evol-instruct](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-indonesian)|
 
 As an open-source project, we are open to contributions.
 
