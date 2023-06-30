@@ -15,7 +15,7 @@ The translation data currently covers utterances of <2048 length, which are cons
 
 ### Dataset link
 <[Huggingface](https://huggingface.co/datasets/FreedomIntelligence/ShareGPT-CN) or see [here](https://paratranz.cn/projects/6725/artifact)>
-|Target Language|Link|
+|Target Language|Link for Alpac-gpt4|Link for Evol-instruct|
 | ------ | ------ | ------ |
 | Chinese |[Alpaca-gpt4](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-chinese)|[Evol-instruct](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-chinese)
 | Japanese |[Alpaca-gpt4](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-japanese)|[Evol-instruct](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-japanese)|
